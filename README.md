@@ -1,6 +1,6 @@
 # The Guardian Scraper (Content API → SQLite)
 
-A resumable scraper for the **Guardian Content API** that downloads articles from selected **sections** over a specified **date range** and stores them in **yearly SQLite databases**. Designed for long archival runs with **resume state**, **upsert (no duplicates)**, and **rate-limit friendly** request handling.
+A resumable scraper for the **Guardian Content API** that downloads articles from selected sections over a specified date range and stores them in yearly SQLite databases. Designed for long archival runs with resume state, upsert (no duplicates), and rate-limit friendly request handling.
 
 ## Features
 
